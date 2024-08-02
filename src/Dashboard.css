@@ -1,0 +1,39 @@
+.dash-h2{
+    color: blueviolet;
+    margin-top: 15%;
+    margin-left: 43%;
+}
+.dash-para{
+    color: black;
+    font-weight: bold;
+    margin-left: 43%;
+}
+.dash-btn{
+    width: 8%;
+    border: none;
+    margin-top: 3%;
+    margin-left: 90%;
+    background-color: red;
+    border-radius: 20px;
+    font-weight: bold;
+}
+@media only screen and (max-width:425px) {
+  
+    
+    .dash-btn{
+        width: 20%;
+        margin-left: 78%;
+       
+    }
+    .dash-h2{
+        color: blueviolet;
+        margin-top: 50%;
+        margin-left: 40%;
+    }
+    .dash-para{
+        color: black;
+        font-weight: bold;
+        margin-left: 32%;
+    }
+}
+

@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.reg-h3{
+    margin-left: 23%;
+}
+
+.reg-label-email{
+    margin-top: 5%;
+}
+.reg-label-password{
+    margin-top: 5%;
+}
+.reg-form{
+    width: 24%;
+    background-color: white;
+    padding: 20px;
+    margin-top: 190px;
+    border-radius: 20px;
+    margin-left: 35%;
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);;
+}
+
+.reg-btn{
+    width: 50%;
+    border: none;
+    margin-top: 20px;
+    margin-left: 75px;
+    border-radius: 50px;
+    font-weight: bold;
+    letter-spacing: 2PX;
+    background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:425px) {
+    .reg-form{
+        width: 90%;
+        margin-top: 40%;
+        margin-left: 15px;
+       
+    }
+    .reg-btn{
+       
+        margin-left: 60px;
+        
+    }
+    
+    
+    
+}
+
